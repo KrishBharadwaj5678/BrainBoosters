@@ -10,7 +10,7 @@ Get quick wisdom and daily motivation with just one click.
 | Feature                    | Description                                           |
 | -------------------------- | ----------------------------------------------------- |
 | 🎯 Random Advice Generator | Get useful and inspiring advice instantly             |
-| ⚡ One-Click Interaction    | Simply click to receive a new piece of advice         |
+| ⚡ One Click Interaction    | Simply click to receive a new piece of advice         |
 | 🧠 Mind Enrichment         | Helpful suggestions to improve thinking               |
 | 🎨 Clean UI                | Minimal and user-friendly design                      |
 | 🌐 Web-Based               | Accessible from any browser without installation      |
